@@ -1,0 +1,11 @@
+2023-12-15 22:37:24,756 - INFO - Image processed and sent by user 250899062
+2023-12-15 22:40:54,517 - INFO - Image processed and sent by user 250899062 (Username: ar_gin)
+2023-12-15 22:45:20,646 - INFO - Image processed and sent by user 250899062 (Username: ar_gin)
+2023-12-15 22:45:53,469 - INFO - Image processed and sent by user 250899062 (Username: ar_gin)
+2023-12-15 23:49:37,556 - INFO - Image processed and sent by user 806879827 (Username: ROwaGO)
+2023-12-15 23:49:53,541 - INFO - Image processed and sent by user 250899062 (Username: ar_gin)
+2023-12-15 23:50:12,294 - INFO - Image processed and sent by user 250899062 (Username: ar_gin)
+2023-12-15 23:55:28,410 - INFO - Image processed and sent by user 250899062 (Username: ar_gin)
+2023-12-16 00:03:22,789 - ERROR - Error processing image: 'TeleBot' object has no attribute 'loop'
+2023-12-16 00:03:29,232 - ERROR - Error processing image: 'TeleBot' object has no attribute 'loop'
+2023-12-16 00:04:44,564 - INFO - Image processed and sent by user 250899062 (Username: ar_gin)
